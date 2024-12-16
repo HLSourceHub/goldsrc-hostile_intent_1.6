@@ -1,0 +1,139 @@
+// NOTE:  THIS FILE IS AUTOMATICALLY REGENERATED, 
+//DO NOT EDIT THIS HEADER, YOUR COMMENTS WILL BE LOST IF YOU DO
+// Multiplayer options script
+//
+// Format:
+//  Version [float]
+//  Options description followed by 
+//  Options defaults
+//
+// Option description syntax:
+//
+//  "cvar" { "Prompt" { type [ type info ] } { default } }
+//
+//  type = 
+//   BOOL   (a yes/no toggle)
+//   STRING
+//   NUMBER
+//   LIST
+//
+// type info:
+// BOOL                 no type info
+// NUMBER       min max range, use -1 -1 for no limits
+// STRING       no type info
+// LIST          delimited list of options value pairs
+//
+//
+// default depends on type
+// BOOL is "0" or "1"
+// NUMBER is "value"
+// STRING is "value"
+// LIST is "index", where index "0" is the first element of the list
+
+
+// Half-Life Server Configuration Layout Script (stores last settings chosen, too)
+// File generated:  Fri Sep 22 09:03:46 PM
+//
+//
+// Cvar	-	Setting
+
+VERSION 1.0
+
+DESCRIPTION SERVER_OPTIONS
+{
+	"sv_lan"
+	{
+		"LAN Game"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"hostname"
+	{
+		"#Valve_Hostname"
+		{ STRING }
+		{ "Hostile Intent 1.6" }
+	}
+
+	"maxplayers"
+	{
+		"#Valve_Max_Players"
+		{ NUMBER 2.000000 32.000000 }
+		{ "16.000000" }
+	}
+
+	"sv_password"
+	{
+		"#Valve_Server_Password"
+		{ STRING }
+		{ "" }
+	}
+
+	"sv_region"
+	{
+		"Server Location (Steam)"
+		{
+			LIST
+			"0: US East coast" "0"
+			"1: US West coast" "1"
+			"2: South America" "2"
+			"3: Europe" "3"
+			"4: Asia" "4"
+			"5: Australia" "5"
+			"6: Middle East" "6"
+			"7: Africa" "7"
+			"255: World" "255"
+		}
+		{ "0.000000" }
+	}
+
+	"sv_sendvelocity"
+	{
+		"Low ping server physics"
+		{ BOOL }
+		{ "0" }
+	}
+
+	"mp_timelimit"
+	{
+		"Time Limit"
+		{ NUMBER 0.000000 9999.000000 }
+		{ "0.000000" }
+	}
+
+	"hi_roundtime"
+	{
+		"Round time limit"
+		{ NUMBER 0.000000 9999.000000 }
+		{ "0.000000" }
+	}
+
+	"hi_roundlimit"
+	{
+		"Round limit"
+		{ NUMBER 0.000000 9999.000000 }
+		{ "0.000000" }
+	}
+
+	"mp_freezetime"
+	{
+		"Freeze time"
+		{ NUMBER 0.000000 9999.000000 }
+		{ "0.000000" }
+	}
+
+	"mp_friendlyfire"
+	{
+		"Friendly Fire"
+		{ BOOL }
+		{ "1" }
+	}
+
+	"mp_autoteambalance"
+	{
+		"Auto Team Balance"
+		{ BOOL }
+		{ "0" }
+	}
+
+}

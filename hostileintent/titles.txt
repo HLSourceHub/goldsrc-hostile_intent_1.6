@@ -1,0 +1,475 @@
+//TITLES FOR HALF-LIFE
+// Position command $position x y 
+// x & y are from 0 to 1 to be screen resolution independent
+// -1 means center in each dimension
+// Effect command $effect <effect number>
+// effect 0 is fade in/fade out
+// effect 1 is flickery credits
+// effect 2 is write out (training room)
+// Text color r g b command $color
+// fadein time fadeout time / hold time
+// $fadein (message fade in time - per character in effect 2)
+// $fadeout (message fade out time)
+// $holdtime (stay on the screen for this long)
+
+Spec_Mode1
+{
+Locked Chase-Camera
+}
+
+Spec_Mode2
+{
+Free Chase-Camera
+}
+
+Spec_Mode3
+{
+Free-Look
+}
+
+Spec_Mode4
+{
+First Person
+}
+
+Spec_Mode5
+{
+Free Map Overview
+}
+
+Spec_Mode6
+{
+Chase Map Overview
+}
+
+Spec_NoTarget
+{
+No valid targets. Cannot switch to Chase-Camera Mode.
+}
+
+Spec_Help_Title
+{
+Spectator Mode
+}
+
+Spec_Help_Text
+{
+Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target
+}
+
+Spec_Slow_Motion
+{
+Slow Motion
+}
+
+Spec_Replay
+{
+Instant Replay
+}
+
+Spec_Auto
+{
+Auto
+}
+
+// Multiplayer Scoreboard
+//
+// Scoreboard items
+//
+Unassigned
+{
+Unassigned
+}
+
+Spectators
+{
+Spectators
+}
+
+TEAMS
+{
+TEAMS
+}
+
+PLAYERS
+{
+PLAYERS
+}
+
+OBJECTIVES
+{
+OBJECTIVES
+}
+
+DEATHS
+{
+DEATHS
+}
+
+SHOTS
+{
+SHOTS
+}
+
+HITS
+{
+HITS
+}
+
+ACCURACY
+{
+ACC(%)
+}
+
+LATENCY
+{
+LATENCY
+}
+
+VOICE
+{
+VOICE
+}
+
+Spec_Map
+{
+Map
+}
+
+Spectators
+{
+Spectators
+}
+
+// other menu text
+Menu_OK
+{
+OK
+}
+
+Menu_Cancel
+{
+CANCEL
+}
+
+Mic_Volume
+{
+Mic Volume
+}
+
+Speaker_Volume
+{
+Speaker Volume
+}
+
+Voice_Properties
+{
+Voice Properties
+}
+
+Map_Description_not_available
+{
+Map Description not available.
+}
+
+Player
+{
+player
+}
+
+Player_plural
+{
+players
+}
+
+Muted
+{
+You have muted %s.
+}
+
+Unmuted
+{
+You have unmuted %s.
+}
+
+No_longer_hear_that_player
+{
+You will no longer hear that player speak.
+}
+
+OBS_NONE
+{
+Camera Options
+}
+
+OBS_CHASE_LOCKED
+{
+Locked Chase-Cam
+}
+
+OBS_CHASE_FREE
+{
+Free Chase-Cam
+}
+
+OBS_ROAMING
+{
+Roaming
+}
+
+OBS_IN_EYE
+{
+First Person
+}
+
+OBS_MAP_FREE
+{
+Free Overview
+}
+
+OBS_MAP_CHASE
+{
+Chase-Cam Overview
+}
+
+SPECT_OPTIONS
+{
+Options
+}
+
+CAM_OPTIONS
+{
+Camera Options
+}
+
+Spec_Duck
+{
+Press DUCK for Spectator Menu
+}
+
+//
+// Radio
+//
+
+Radio
+{
+1. Team Commands 1
+2. Team Commands 2
+3. Scout Commands
+4. Sniper Commands
+5. Location Commands
+6. Personal Commands
+}
+Radio1a
+{
+Team Commands 1
+
+1. All stack on me
+2. Cover me
+3. Cover that door
+4. Fall back
+5. Get some cover
+6. Hold your fire
+7. Team, report in
+
+9. Cancel
+}
+
+Radio2a
+{
+Team Commands 2
+
+1. Meet at the rendevous
+2. Reporting in
+3. Couple scouts, go ahead of us
+4. Stay with this element
+5. Throw in a flash
+6. Throw in a frag
+7. Watch the rear
+
+9. Cancel
+}
+
+Radio3a
+{
+Scout Commands
+
+1. Main element, I've got enemy activity here
+2. Main element, approach enemy positions 
+   from the east
+3. Main element, approach enemy positions 
+   from the north
+4. Main element, approach enemy positions 
+   from the south
+5. Main element, approach enemy positions 
+   from the west
+6. Scouts here, I'm pinned down. Need 
+   assistance now
+7. Scouts here, I'm coming back
+8. Scouts Reporting, I'm under fire. Retreating
+
+9. Cancel
+}
+
+Radio4a
+{
+Sniper Commands
+
+1. Main element, your clear to go
+2. Main element, hold position until I clear 
+   the area
+3. Sniper here. No targets in sight
+4. Sniper here. I'm taking fire. Pulling back
+5. Sniper here. I'm changing my location
+6. Sniper here. I have targets in sight
+
+9. Cancel
+}
+
+Radio5a
+{
+Location Commands
+
+1. Enemy behind that door
+2. Enemy in that room
+3. Enemy in the sewer
+4. Enemy on the left
+5. Enemy on the right
+6. Enemy on the roof
+7. Enemy behind to our rear
+
+9. Cancel
+}
+
+Radio6a
+{
+Personal Commands
+
+1. Building clear
+2. I can't hold here on my own
+3. Enemy down
+4. I'm falling back
+5. Floor clear
+6. I need ammo
+7. I need backup
+8. The room is clear
+
+9. Cancel
+}
+
+Radio1b
+{
+Team Commands 1
+
+1. Fall in behind me
+2. Give me some cover
+3. Watch that door
+4. Get back, get back
+5. Get some cover
+6. Stop shooting
+
+9. Cancel
+}
+
+Radio2b
+{
+Team Commands 2
+
+1. Meet at the grouping point
+2. You 2 go ahead of us
+3. Stay together
+4. Use a stun grenade
+5. Use a frag grenade
+6. Watch our backs
+
+9. Cancel
+}
+
+Radio3b
+{
+Scout Commands
+
+1. Main group. There's NATO activity here
+2. Main group. Troops approaching 
+   from the east
+3. Main group. Troops approaching 
+   from the north
+4. Main group. Troops approaching
+   from the south
+5. Main group. Troops approaching
+   from the west
+6. Scout here. Help, Help me I need backup 
+   now, I'm under fire
+7. I'm coming back
+8. Scout here. I'm under fire, backing off
+
+9. Cancel
+}
+
+Radio4b
+{
+Sniper Commands
+
+1. Main group, It's clear, move on
+2. Main group, Stay there until its clear
+3. Sniper Here. No Enemy about
+4. I'm under fire, I'm pulling out
+5. Sniper Here. I'm moving position
+6. Sniper Here. I've got a target
+
+9. Cancel
+}
+
+Radio5b
+{
+Location Commands
+
+1. Natos behind the door
+2. They're in that room
+3. They're in the sewers
+4. Natos to the left
+5. Natos to the right
+6. They're on the roof
+7. Quick, they're behind us
+
+9. Cancel
+}
+
+Radio6b
+{
+Personal Commands
+
+1. The building's secure
+2. Help, I can't hold this area on my own
+3. Nato down
+4. I'm dropping back
+5. The floor's clear
+6. Quick, I need ammunition
+7. Help me, I need some backup now
+8. The room's empty
+
+9. Cancel
+}
+
+//
+// Menu Items
+//
+Menu_OK
+{
+OK
+}

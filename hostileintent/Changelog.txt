@@ -1,0 +1,30 @@
+Version 1.6
+
+New Content
++ new weapons: p90, p90sd, bizon, bizonsd, m14
++ new maps: hi_kosovo, hi_tuulo, hi_pressure
++ 'tutorial map' for new players
++ added small player lean effect on strafe
++ 'objective found' text can now be toggled using a cvar cl_showobj 0 or in the settings menu 
++ 'objective found' text can now be disabled on the server using the cvar mp_showobj 0 (overrides client)
+
+Changes
+- added short delay (2.5 sec) before smoke grenade explodes.
+- increased the length of the smoke grenade to make it more effective
+- revamped weapons: m4a1, usp, flashbang
+- totally revamped maps: hi_deadbolt2, hi_depot
+- updated maps: hi_croatia, hi_jungle, hi_russia
+- all new weapon sounds 
+- new higher-res splash screen
+- revamped 30 player models
+- made briefing text brighter
+- removed certain precached models that weren't used in game to save on map resources
+- improved stats logging - can now show completed objectives, assisted objectives, and survival bonus
+- TK Punishment - Excessive teamkill is by default a 20 minute ban
+
+Bug fixes
+- fixed jump-shoot exploit - player can no longer jump and shoot in mid-air
+- fixed third person exploit
+- fixed crash bug in hi_congo and hi_khartoum on linux servers
+- fixed some models bleeding green slime
+- fixed flashbang exploit where a player can jump or fire to stop ringing sound

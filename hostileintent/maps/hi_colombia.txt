@@ -1,0 +1,35 @@
+** NATO OBJECTIVES (Attack) **
+       
+	Obtain all intelligence documents	
+
+** TANGO OBJECTIVES (Defend) **
+
+	Prevent the capture of documents
+
+// MISSION
+
+Time:           1725 ZULU
+Location:       Colombia, near the city of
+                    Budaramanga
+// SITUATION
+
+A cartel operating out of the hills near the
+city of Budaramanga has been trafficking drugs
+into the U.S. for over nine months, with an
+alarming rate of success. Recent circumstantial
+evidence has come to light implicating a coast
+guard official in the southwest. Large sums of
+money have been deposited into his bank account
+at regular intervals.
+
+// BACKGROUND
+
+Satellites intercepted a phone call the official
+made to the cartel's outpost. It is believed this
+outpost contains substantial information about
+local crops, as well as evidence of
+correspondence between the official and the
+cartel and his alleged payoffs. Securing these
+documents will strike a vital blow to the heart
+of the cartel.
+

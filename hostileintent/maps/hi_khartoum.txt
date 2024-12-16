@@ -1,0 +1,39 @@
+** TANGO OBJECTIVES (Attack) **
+
+	1. Obtain the keycode from the
+	master bedroom (top floor)
+	
+	2. Unlock the board room doors
+	(ground floor)
+
+** NATO OBJECTIVES (Defend) **
+
+	1. Prevent Tangos from obtaining
+	the key code
+
+	2. Prevent Tangos reaching 
+	the board room
+
+
+// MISSION
+
+Time:           1100 ZULU
+Location:       Khartoum, Sudan
+
+// SITUATION
+
+NATO forces have been swiftly inserted to
+end a rebel attack on an embassy in the
+Sudanese city of Khartoum. The rebels'
+intent is to kill the ambassador, who is
+believed to be hiding away in his executive
+board room. However, they must first obtain
+the key code from the safe in the master
+bedroom.
+
+// BACKGROUND
+
+It is unclear what group these rebel
+assassins represent, but their assault came
+without notice and has thrown the outlying
+region into chaos. 

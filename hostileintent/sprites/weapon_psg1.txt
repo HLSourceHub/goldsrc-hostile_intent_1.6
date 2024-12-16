@@ -1,0 +1,5 @@
+4
+weapon			320 smg		0 	0 	 170	 50
+weapon_s		320 smg		0 	0 	 170	 50
+weapon			640 smg		0 	0 	 170	 50
+weapon_s		640 smg		0 	0 	 170	 50

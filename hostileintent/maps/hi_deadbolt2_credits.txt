@@ -1,0 +1,27 @@
+hi_deadbolt2
+-------------
+complete remake for HI:CD
+
+Map
+----
+Created by ifOnly based on the original by George Pooshoes
+
+Textures
+-------------
+Main texture set by Bruno
+
+Additional textures by ifOnly, thedoenerking, slicky, ThisIsSeriousMum, Simon Foster, mayang.com, Xenon, Marc Schroder (poke646), lemog.free.fr/lemog_v5
+
+Models
+------
+ifOnly, Warbeast, thedoenerking, e4g1e, MarGon, Xenon, Bizl, Dreadus, Biotek and the Hostile Intent team.
+
+
+(See also 'models/deadbolt2/ifO_models-readme.txt' for detailed credits and terms of use)
+
+-----------------------
+Apologies if anyones is missed, please contact me and I'll fix it immediately. Huge thanks to all.
+
+Contact me (ifOnly) via forums.hostileintent.org (sign up and send me a PM)
+
+Enjoy!

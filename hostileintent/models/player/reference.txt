@@ -1,0 +1,50 @@
+- Ranger -
+Ghiliesuit
+RangeBlack
+Rangewoodland
+RangewoodlandFP
+Rangeblue
+
+- SAS -
+Sasgrey
+Saswinter
+woodlandsas
+woodlandsas02
+
+- Trooper -
+TrooperBlue
+TrooperDesert
+TrooperDesert2
+TrooperDesert3
+TrooperGreen
+TrooperWinter
+TrooperWinter2
+TrooperWinter3
+TrooperBlack
+
+- Stealth -
+Stealth
+
+-------------------------
+
+- Urban -
+Al
+Mike
+Vinnie
+
+- Camo -
+Blackpants
+Bluepants
+Desertcamo
+Goldpants
+UrbanWinter
+
+- Jungle -
+Castro
+Cuban
+GreenCamo
+
+- MiddleEastern -
+Aziz
+Said
+

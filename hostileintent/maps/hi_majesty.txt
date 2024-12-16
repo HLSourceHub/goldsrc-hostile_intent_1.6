@@ -1,0 +1,42 @@
+** NATO OBJECTIVES (Attack) **
+
+	Disable the bombs (2)
+	1. in the engine room
+	2. in the torpedo bay
+
+** TANGO OBJECTIVES (Defend) **
+
+	Prevent NATO from defusing the bombs
+
+
+// MISSION
+
+Time:           0100 ZULU
+Location:       Baltic Sea
+
+// SITUATION
+
+An OpFor has seized control of the HMS Triumph,
+an SSN-107 Trafalgar class submarine. We are
+unaware of their intentions, as they have
+refused any contact with us. At this point it is
+unclear exactly how they knew the location of
+the ship and its cargo, but it is possible that
+they had inside help. Whatever their plan for
+the submarine, it is likely that they have wired
+the ship with bombs. According to experts, it
+would require two well-placed bombs to sink a
+Trafalgar from inside.  Needless to say, we
+cannot allow this to happen. Board the ship,
+defuse the bombs, eliminate the OpFor, and
+re-establish control of the HMS Trafalgar. Be
+advised: The enemy is armed and knows that you
+are coming.
+
+// BACKGROUND
+
+Little is known of the opposing force controlling
+the HMS Triumph, but it is likely that they have
+some form of para-military training. It is also
+likely that they are funded and backed by a
+government or terrorist organization of some sort. 

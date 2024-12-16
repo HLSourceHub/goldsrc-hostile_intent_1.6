@@ -1,0 +1,39 @@
+** NATO OBJECTIVES (Attack) **
+
+	1. Gather the lists (2)
+	2. Shut down radio traffic
+
+** TANGO OBJECTIVES (Defend) **
+
+	1. Prevent troops from obtaining
+	the lists
+	2. Protect the radio terminals
+
+
+// MISSION
+
+Time:           0240 
+Location:       Nefteugansk, Russia
+
+// SITUATION
+
+Intelligence indicates that militant supporters
+of the former USSR are gathered in NC-78, a
+decommissioned Soviet outpost in the mountains
+of Nefteugansk. The militants are organizing
+trade and smuggling operations in the region to
+unknown buyers interested in the gathering of
+illegal weapons and arms. Lists of the buyers
+should be in the facility.
+
+// BACKGROUND
+
+The sale of illegal weapons becomes a good way
+to make a quick buck in the former Soviet Union.
+Military cells throughout the country have
+started to operate on their own since Moscow cut
+off paychecks for their service in the post-
+communist nation. These rogue cells will stop at
+nothing, using their prior military training to
+provide an income for themselves and their
+organization.

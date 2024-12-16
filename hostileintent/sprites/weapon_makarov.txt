@@ -1,0 +1,5 @@
+4
+weapon			320 pistols2	0	150	170	50
+weapon_s		320 pistols2	0	150	170	50
+weapon			640 pistols2	0	150	170	50
+weapon_s		640 pistols2	0	150	170	50

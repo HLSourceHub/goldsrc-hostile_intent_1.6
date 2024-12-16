@@ -1,0 +1,42 @@
+** NATO OBJECTIVES (Attack) **
+
+	1. Destroy the radio tower
+	2. Disable the radio panel
+	3. Disable the bombs
+
+** TANGO OBJECTIVES (Defend) **
+
+	1. Protect the radio tower
+	2. Protect the radio panel
+	3. Protect the bombs
+
+Secondary:      Eliminate the enemy threat
+
+// MISSION
+
+Time:           0430 ZULU
+Location:       East Croatia
+
+// SITUATION
+
+Intelligence services have discovered that
+a terrorist cell is planning a massive
+bombing attack in Yugoslavia. The faction
+members have occupied an abandoned hideout
+across the border with neighbouring
+country Croatia, from which they'll be
+planning and executing the attack. Special
+forces troops have been sent in to disable
+their communication systems and neutralize
+their explosives.
+
+// BACKGROUND
+
+A terrorist faction has been active in
+Yugoslavia for many decades, but have
+recently been executing many random
+attacks. Various intelligence services
+from around the globe have gotten ahold
+of new information identifying plans for
+a large-scale attack using powerful
+explosives.

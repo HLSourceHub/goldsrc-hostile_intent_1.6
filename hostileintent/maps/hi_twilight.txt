@@ -1,0 +1,36 @@
+** NATO OBJECTIVES (Attack) **
+
+	Disarm the bombs (2)
+	- in the main floor bedroom
+	- in the upstairs bedroom
+
+** TANGO OBJECTIVES (Defend) **
+
+	Prevent NATO from defusing the bombs (2)
+
+// MISSION
+
+Time:           0530 ZULU
+Location:       Sydney, Australia
+
+// SITUATION
+
+At 0130, well-known author David Byrne's house
+was raided. David and his family were taken
+hostage, and bombs were placed in multiple
+locations. The house is being patrolled by a
+highly armed and highly dangerous group of
+terrorists.
+
+// BACKGROUND
+
+The terrorist group is of Indonesian origin and
+has been secretly training in the Australian
+outback. They have targeted author David Byrne
+as his books focus on the life, and ultimate
+capture, of their beloved fanatical leader
+Sheikh Samanhudi. Attempts at negotiations have
+been unsuccessful - the terrorists demand
+money, the release of their imprisoned leader,
+and safe passage to a foreign country of their
+designation.

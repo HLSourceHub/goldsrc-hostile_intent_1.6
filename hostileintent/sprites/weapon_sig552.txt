@@ -1,0 +1,5 @@
+4
+weapon			320 rifles2	 0 	50	 170	 50
+weapon_s		320 rifles2	 0 	50	 170	 50
+weapon			640 rifles2	 0 	50	 170	 50
+weapon_s		640 rifles2	 0 	50	 170	 50

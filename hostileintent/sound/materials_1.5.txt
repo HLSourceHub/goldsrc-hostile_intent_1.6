@@ -1,0 +1,485 @@
+// Material types for Hostile Intent
+//
+// Created by Paul on Juni 6, 2002
+// Last Modified : 17/03/05 by OpticHelix & MarmaladeMan
+//
+//  'M' metal
+//  'V' ventillation
+//  'D' dirt
+//  'S' slosh liquid 
+//  'T' tile
+//  'G' grate (Concrete is the default)
+//  'W' wood
+//  'P' computer
+//  'Y' glass
+//  'F' flesh
+//  'U' mud
+//  'A' sand
+//  'R' carpet
+//  'E' foliage
+//  'N' snow
+//  'Z' grass
+//
+// NOTE: only the first 12 characters of the texture name are used
+// NOTE: a maximum of 512 textures may be tagged in this file
+
+
+
+/////////////////////////////////////////////////////////////////
+// hi_aurora
+/////////////////////////////////////////////////////////////////
+
+W A_01
+W A_03
+M A_04
+W A_05
+M A_06
+M A_07
+N A_08
+M A_09
+W A_10
+W A_11
+R A_12
+T A_14
+N A_15
+W A_23
+N A_27
+W A_28
+N A_22
+R A_20
+R A_21
+W A_67
+R A_53
+R A_54
+W A_72
+W A_73
+W A_78
+Y A_50
+
+/////////////////////////////////////////////////////////////////
+// hi_offshore
+/////////////////////////////////////////////////////////////////
+
+M REDWALL
+M RED
+M WHITEWALL
+M ctx_redwall_s1
+M ctx_wht_wall_s1
+M ctx_paal1
+M ctx_paal2
+M ctx_greywall_s2
+M cshock_ground6
+M con1_wall01p
+M cshock_door
+M heliplat1
+M heliplat2
+M heliplat3
+M heliplat4
+M smoe_CrtSde
+M smoe_metal
+M smoe_MtlCc
+G GRATESTEP2
+G offgratestep2
+G ctx_offrailing
+G grid2
+G offgratestep
+G offgratestep2
+G OFFRAILING
+G tension3
+G tension6
+M TNNL_FLR1A
+
+///////////////////////////////////////////////////
+// hi_deadbolt1 textures
+///////////////////////////////////////////////////
+
+A PD_01
+A PD_02
+M PD_03
+M PD_04
+M PD_05
+M PD_06
+W PD_20
+W PD_21
+W PD_22
+T PD_23
+D PD_33
+D PD_34
+A PD_35
+A PD_36
+A PD_37
+A PD_38
+M PD_39
+M PD_40
+M PD_41
+W PD_46
+W PD_47
+D PD_52
+W PD_59
+A PD_60
+D PD_61
+A PD_62
+
+///////////////////////////////////////////////////
+// hi_deadbolt2 textures
+///////////////////////////////////////////////////
+
+E PD_66
+E PD_67
+E PD_68
+A PD_69
+A PD_70
+A PD_71
+A PD_72
+A PD_73
+A PD_74
+A PD_77
+A PD_78
+A PD_79
+W PD_83
+M PD_49
+M PD_29
+W PD_27
+W PD_32
+T PD_32
+W PD_93
+T PD_96
+T PD_97
+T PD_98
+T PD_99
+A PD_101
+A PD_102
+D PD_24
+
+/////////////////////////////////////////////////////////////
+// hi_russia
+/////////////////////////////////////////////////////////////
+
+T OTTILE4A
+T OTTILE7
+M ELEV2_DR
+M ELEV2_FLR
+M SMOE_METAL
+N SNOW_RUBBLE
+W SRG_BH_WOOD
+T RUSFLOOR02
+M RUSGATE01
+W RUSPLANKS01
+T RUSFLOOR01
+M RUSDOOR01
+M RUSDOOR02
+M RUSDOOR03
+M RUSDOOR04
+M RUSCONTROL01
+M RUSCONTROL02
+M RUSCONTROL03
+M RUSCONTROL04
+M RUSCONTROL05
+M RUSCONTROL06
+N MATT_SNOWCHUNK
+W SHP_CRT01B
+W SHP_CRT01C
+W SHP_CRT01E
+
+/////////////////////////////////////////////////////////////
+// hi_jungle
+/////////////////////////////////////////////////////////////
+
+M xen_metal7
+G grate3a
+M door69_128x256
+M GarbageCan02b
+M generic117
+M jp_door01
+M xen_crate1top
+W pkf_box1a
+W pkf_box1b
+D jp_floor03
+M silo2_wall2a
+W pkf_box2a
+W pkf_box2b
+Z jp_grass01
+M jp_panel01
+M jp_panel02
+M jp_roof01
+W jp_shutter01
+W jp_shutter02
+M jp_wall01
+M jp_wall02
+M jp_wall03
+M jp_wall04
+M jp_wall05
+M jp_wall06
+W jp_wood01
+
+/////////////////////////////////////////////////////////////
+// hi_colombia
+/////////////////////////////////////////////////////////////
+
+S !swampwatr
+M c2a3rustdoor1
+W delaz_box01
+W delaz_box01top
+W flrbrd
+W jp_bark01
+W jp_bark02
+E jp_floor01
+E jp_shrub01
+W jp_wood02
+W jp_wood03
+E leafroof4f
+W logfront
+W paintpeelwood
+W paintpeelwood2
+W pnkywood
+U swampbtm
+W wdpanel
+E jp_canopy02
+E jp_canopy02b
+E jp_canopy02c
+E jp_canopy03b
+E junglefoilage3
+E leadroof2f
+M out_box2
+M out_box2d
+
+////////////////////////////////
+// hi_majesty
+////////////////////////////////
+
+M jer_sub_hull
+M maj_hatch2
+M PO_METLGREYDIA
+M CSTRIKE_ME1GRAT
+M PO_SUBFLRRLBR
+W JER_CLOS2_DEF3
+M D6_hvygrate
+M jer_bath_sink2
+M SZ-CLEANMETAL
+M PLATE_METAL1
+M JER_BATH_SINK3
+G GRATESTEP2
+M SMOE_METAL
+M METAL_BORD05
+M C3A2A_W1
+M LAB1_TRIM3
+M JER_DOOR2
+M PO_MTLDPLRST
+M maj_vent
+M ROCKETSEP
+G DUCT_BREAK1
+M R25_tunnel2
+M Jer_ENG_1
+M Jer_ENG_2
+M JER_DOOR4
+M JER_BATH_TOILET
+M JER_BATH_SHOWER
+
+/////////////////////////////////////////////////////
+// hi_twilight
+/////////////////////////////////////////////////////
+R bathroomcarpet
+W cupboard
+W cupboard2
+W door23
+W drfram
+E flowers2
+M fridge01
+W garagecupboards
+M garagedoor
+Y glassbrick
+Z grass2
+T greenbrown
+W intdoor
+T ktchfloor
+T redtile
+R rug1
+R staircarp2
+M stovetop
+W SZ-doorright
+W tabletop0001
+T tilefloor2
+T tiles
+D walkway2
+D walkway3
+W wallpaper1
+W wallpaper2
+W wallpaper3
+W wallpaper4
+
+/////////////////////////////////////////////////////////////////
+// hi_depot
+/////////////////////////////////////////////////////////////////
+
+E day_out-wall
+M day_wall04
+M day_wall04a
+M day_roof
+M shp_bdoor05
+M day_metal02
+M -1checkmet
+M -2checkmet
+M trucksidetra
+M matt_ventfront
+M SZ-containfr
+M SZ-containsi
+M contftblue
+M grey
+P photocop
+P compcol
+W DelaZ_Box00Top
+W cardbox
+W cardbbox
+W cardbbox2
+W planksside
+W planksfront
+W trrm_wood
+W SZwoodcrate1
+W wood4
+W offdoor
+
+/////////////////////////////////////////////////////////////////
+// hi_alandalus textures
+/////////////////////////////////////////////////////////////////
+
+T hko_floor8
+T boden002
+T hkitfloor1
+T hko_floor6
+T M_FLOOR12
+T hko_arch2
+T hko_detail1
+T hko_arch6
+D street256
+E OUT_DIRT2
+W tk_barrel2
+W tk_wicker2tp
+W tk_wicker3tp
+W tuer2
+W window003
+W door001
+W tk_mod-wood
+R hko_tiles1
+R M_CARPET2
+M hko_metal
+Y glass_bright
+E tk_wickeropn2
+E tk_wickeropn1
+E tk_opencrate4
+E tk_opencrate3
+E tk_barrel20001
+E tk_barrel3
+
+/////////////////////////////////////////////////////////////////
+// hi_downed
+/////////////////////////////////////////////////////////////////
+
+D smoe_conc4
+D sgeti-grass01
+D drkciel
+M metal_wall05b
+M po_beamred
+M po_metalwallgre
+M bag_metal01
+M matt_barrelside
+M matt_barreltop1
+M metal_black
+M strat_bigdoor
+W 42_wood02
+W eastdoor1anl
+W po_woodbeam
+
+///////////////////////////////////////
+// hi_khartoum
+///////////////////////////////////////
+
+R lab1_flr3
+R eastcarpet3d
+R eastcarpet3c
+R PWG7_FLOOR4
+T fl_tile1
+T arb_floor2
+T bag_floor04
+T bag_floor08
+W po_bookshsid
+W ali_wood02
+W po_doorwood07
+Z SZ-grass2
+
+/////////////////////////////////////////////////////////////////
+// hi_croatia
+/////////////////////////////////////////////////////////////////
+
+Z K_grass10
+M CSTRIKE_ME4METL
+M dd_cbulid03a
+M dd_cbulid03b
+M dd_cbulid03c
+M fb_door35
+M geo_bathdoor
+Y Lamp27_32x64
+M matt_barrelside
+M matt_barreltop1
+M misc25
+M misc26
+W OtFlat16
+M po_doormtlsubw
+M po_metlrustdia
+M po_mtltinwll
+D po_roofprtgr
+T RusFloor01
+Y RusGlas01
+M RusWall09
+M sge_shk_wl
+M SZ-containfron1
+M SZ-containfron3
+M SZ-containside1
+M SZcontainside7
+G gRILL01_128X12
+
+/////////////////////////////////////////////////////////////////
+// hi_congo textures
+/////////////////////////////////////////////////////////////////
+
+M domogc
+M domogy
+M domogz
+Y femogx
+M geo_redbarrel
+M geo_redbarreltp
+W pallets02
+R M_CARPET2
+Z cstrike_FT2D845
+T e_floor6
+M mailbox
+T ms_floor3
+M memogd
+W memogz
+M metal128
+W po_wood
+W RusDesk01
+W shutter02
+W womoga
+W cng_door5
+M gmetal001
+T hkitfloor1
+T hkitfloor2
+W K_wood11b
+W matt_cratetop
+Y po_glassdrkdrt
+
+ /////////////////////////////////////////////////////////////////
+// hi_basque and hi_efreeti textures
+/////////////////////////////////////////////////////////////////
+
+M 1234567metal
+D 12345678dirt
+T 12345678tile
+G 1234567grate
+W 12345678wood
+P 1234computer
+Y 1234567glass
+R 123456carpet
+E 12345foliage
+Z 1234567grass
+V ventillation

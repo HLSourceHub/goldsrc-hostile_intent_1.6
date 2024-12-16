@@ -1,0 +1,97 @@
+**************HI_Alandalus****************
+|                                       
+|   by _Hostile_Killer_ (wolbru@web.de)   
+| http://members.tripod.de/hostilekiller 
+|					 
+******************************************
+
+******************Models******************
+|         Palm and grass models 
+|       by MarGon www.tolhsa.com
+| 
+| Desk,chair, and pillar and fruit models
+|    by Acumen www.akkurasierer.de.vu
+|
+| hessi_zypresse.mdl and hessi_bank.mdl
+|              by DerHessliche
+|
+|
+|  Rest of models made by thedoenerking
+|          www.thedoenerking.de
+|
+******************************************
+
+***************Custom-Textures************
+|                                        
+| This map contains over 90 custom textures   
+|    all made by _Hostile_Killer_   
+|       DO NOT USE THEM!!!!!!!!!!     
+|
+******************************************
+
+***************HL-Textures****************
+|out_dirt
+|metal_bord06
+|origin
+|sky
+|clip
+|aaatrigger
+|glass_bright
+|black
+|+a~fifts_lght01
+|+0~fifts_lght01
+|+0~white
+|{ladder1
+|{rustyrungs
+|
+***************ZHLT-Textures***************
+|
+|null
+|hint
+|skip
+|
+***************TFC-Textures****************
+|m_floor12
+|m_carpet2
+|e_floor6
+|{eastline1
+|{eastline2
+|{eastline3
+|
+***************CS-Textures*****************
+|-cs_havana--------------------------------
+|{wascheleine1
+|{pflanze2
+|{pflanze1
+|-torntexures------------------------------
+|tk_wickeropn2
+|tk_wickeropn1
+|tk_wicker3tp
+|tk_wicker2tp
+|tk_opencrate4
+|tk_opencrate3
+|tk_mod-wood
+|tk_lionfountain
+|tk_barreltop
+|tk_barrel3
+|tk_barrel20001
+|tk_barrel2
+|!waterhk
+*******************************************
+
+
+DO NOT USE ANY CONTENT INCLUDED IN THIS ZIP
+WITHOUt PERMISSION OF RESPECTIVE USERS
+FOR ANY QUESTIONS E-MAIL TO: (wolbru@web.de)
+OR CONTACT ME PER ICQ: #145903472
+
+DO NOT PROVIDE FILES INCLUDED IN THIS ZIP 
+WITHOU THIS README.txt
+
+
+© Bruno "_Hostile_Killer_" Wolf Castillo 2004 
+
+
+
+
+

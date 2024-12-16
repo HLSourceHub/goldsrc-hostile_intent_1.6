@@ -1,0 +1,49 @@
+** NATO OBJECTIVES (Attack) **
+
+	1. Collect the intelligence
+	regarding cocaine (2)
+     
+	2. Collect intelligence
+	regarding drug trafficking 
+	shipment routes.
+
+** TANGO OBJECTIVES (Defend) **
+
+	1. Prevent the investigation of
+	the cocaine stashes.
+     
+	2. Prevent the investigation of
+	the drug trafficking routes.
+
+
+// MISSION
+
+Time:           1324 ZULU
+Location:       Rain forest, Peru
+
+// SITUATION
+
+In connection with similar raids in Central
+America, the goal of this mission is to
+gather intel from a drug manufacturing plant
+deep in the Peruvian rain forest. Intel needs
+to be gathered to ensure that a raid at a
+large warehouse of the Peruvian drug lord
+Carlos Quiñones can be carried out with
+legitimate reason.
+
+// BACKGROUND
+
+Local narcotics detectives are probing what
+seems to be an expansion of drugs, arms and
+alien-smuggling between Colombia and Peru,
+its neighbor to the south-west. Drug agents
+say that planes and trucks loaded with
+cocaine leave regularly for Colombia from
+the rain forests of Peru. Within the
+framework of this increased drug smuggling,
+the international community has decided to
+fight several Central American drug cartels
+by executing various top secret operations
+in the South American jungles.
+

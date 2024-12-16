@@ -1,0 +1,35 @@
+** TANGO OBJECTIVES (Attack) **
+
+	1. Obtain the flight data recorder
+	from the helicopter (nose-cone)
+	
+	2. Secure the radio & blueprints
+	(underground bunker)
+		
+** NATO OBJECTIVES (Defend) **
+     
+	1. Defend the downed helicopter
+	2. Protect the radio & blueprints
+
+// MISSION
+
+Time:           0600 ZULU
+Location:       Somewhere outside Baghdad, Iraq
+
+// SITUATION
+
+NATO forces, having previously been operating
+near Tikrit, Iraq, on a mission to disable a
+SCUD missile launcher, have been shot down
+while in transit to Baghdad. Rebel Iraqi troops
+are assaulting the fallen team from all sides,
+and NATO must defend what remains of their
+fallen vehicle, lest the sensitive intelligence
+contained within the chopper's flight data
+recorder, as well as the blueprints and radio
+transmissions in the bunker below be recovered
+by these fighters.
+
+// BACKGROUND
+
+No intelligence available.

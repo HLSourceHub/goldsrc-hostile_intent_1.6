@@ -1,0 +1,31 @@
+** NATO OBJECTIVES (Attack) **
+
+Locate the crash site (town centre)
+1. Recover the helicopter's black box recorder
+2. Recover the briefcase of money from the target vehicle
+
+** TANGO OBJECTIVES (Defend) **
+
+1. Prevent Nato from gathering intel from the crash site
+2. Protect the car
+
+// MISSION
+
+Time:           1100 ZULU
+Location:       Tuulo, Somalia, Eastern Africa
+
+// SITUATION
+
+Nato forces have been shot down on a mission to take control of
+a militia stronghold just outside Tuulo. A key militia leader 
+attempted to flee the area by car with a briefcase believed to
+contain sensitive intel on local militia organisations. The small
+squad of Nato troops that managed to survive the crash disabled the 
+car as it passed through the streets of Tuulo but quickly came under 
+sniper fire whilst attempting to secure the vehicle and it's sensitive 
+contents. Nato troops must secure the crash site, retrieve the flight
+recorder and obtain the briefcase (whatever it may contain).  
+
+// BACKGROUND
+No intelligence available.
+

@@ -1,0 +1,42 @@
+** NATO OBJECTIVES (Attack) **
+
+	1. Hack the computer
+	2. Verify the presence of chemical weapons
+
+** TANGO OBJECTIVES (Defend) **
+
+	1. Protect the computer
+	2. Guard the chemical weapons storage
+	
+
+// MISSION
+
+Time:           2045 ZULU
+Location:       Andalucia, Spain
+
+// SITUATION
+
+Given the dramatic impact of 11/M in Madrid,
+Spanish goverment officials are trying to
+locate the remaining terror cells involved.
+One has been found in a small town in
+Andalucia, in the southern region of Spain.
+NATO has been sent in to obtain encrypted
+data identifying the locations of the other
+groups, as well as verify the presence of
+chemical weapons in the town.
+
+// BACKGROUND
+
+11-M was the bombing of three commuter
+trains in Madrid, the capital city of Spain,
+on March 11th, 2004. This terrorist attack
+led to a decisive victory by the Socialist
+Workers Party of Spain in the coming
+presidential election amidst rumors that
+former President José María Aznar had not
+been entirely honest with with the country
+regarding who was responsible for the
+March 11th attacks.
+
+

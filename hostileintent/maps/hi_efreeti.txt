@@ -1,0 +1,36 @@
+** TANGO OBJECTIVES (Attack) **
+    
+	Destroy the 2 Bradleys and survive.
+
+** NATO OBJECTIVES (Defend) **
+
+	Protect the Bradleys
+
+// MISSION
+
+Time:           1735 ZULU
+Location:       Baghdad, Iraq
+
+// SITUATION
+
+Two M2A2 Bradleys have been separated from a convoy 
+and ambushed on Al Jami'ah Street, near the 
+University of Baghdad.  Their crews are trapped 
+inside, and are waiting for help.  While relatively 
+safe from small arms fire, the Bradleys are sitting 
+ducks.  A tactical unit has been deployed on short 
+notice to defend the equipment and crews against 
+insurgent forces until further reinforcements arrive.
+
+// BACKGROUND
+
+The fires of open rebellion have erupted in Baghdad,
+shortly after a second attempted VX gas attack was
+quelled.  The rebellious forces are becoming more
+and more daring in their attacks, taking to fighting
+in the streets of Baghdad.  It is believed that
+ex-Republican Guard forces who had initially thought
+to have been eliminated are leading small groups of
+insurgents to disrupt the proceedings of the new
+government.  NATO forces have been asked to assist
+in this resurgence of fighting.

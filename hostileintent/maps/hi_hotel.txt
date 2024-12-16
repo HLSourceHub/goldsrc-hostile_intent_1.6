@@ -1,0 +1,45 @@
+** NATO OBJECTIVES (Attack) **
+
+	Disarm the bombs (3):
+	- Dining room
+	- Conference room 3
+	- Bedroom 2
+
+** TANGO OBJECTIVES (Defend) **
+
+	Prevent disarmament of the bombs
+
+
+// MISSION
+
+Time:           0136 ZULU
+Location:       Chicago, U.S.
+
+// SITUATION
+
+Islamic extremists have stormed the Fairmont
+Hotel and placed several bombs throughout the
+facility. During the raid, a fire alarm was
+activated by a tourist, prompting an evacuation
+of the hotel before the guests and staff could
+be taken hostage. The terrorists are surrounded,
+trapped within the hotel, and not willing to
+surrender. The city of Chicago has given the
+order to assault the hotel complex, neutralize
+any threat to the facility, and immediately
+disarm the bombs.
+
+// BACKGROUND
+
+The Fairmont Hotel was expecting a summit
+meeting of world leaders from dozens of nations
+later in the night to discuss trade agreements
+and global economic growth. Due to poor planning,
+the aggressors within the hotel arrived early,
+before they could pose a greater threat to the
+summit. Intelligence gathered from the
+surveillance tape recordings of the raid
+indicate that there are bombs planted in the
+main floor washroom, Conference Room #3, and
+guest Room #3.
+

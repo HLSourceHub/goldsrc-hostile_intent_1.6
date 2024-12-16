@@ -1,0 +1,40 @@
+** NATO OBJECTIVES (Attack) **
+
+	Place demo charges on the SCUD (2)
+
+** TANGO OBJECTIVES (Defend) **
+
+	Prevent NATO from disabling the SCUD
+
+// MISSION
+
+Time:           1400 ZULU
+Location:       Near Tikrit, Iraq
+
+// SITUATION
+
+NATO forces have been dispatched near Tikrit as 
+intelligence photos indicate the presence of a
+mobile SCUD missile launcher in the area. The
+SCUD site is designated to be well protected
+and guarded by supporters of the old regime.
+The SCUD must be destroyed at all costs to
+bring stability to the area and to prevent its
+use against Coalition troops or supporters of
+the new Iraqi government.
+
+// BACKGROUND
+
+Iraq began launching short-range ballistic
+missiles (known as SCUDs) at Israel and
+Coalition forces soon after the Gulf War air
+campaign began on January 17, 1991. At the
+start of Operation Iraqi Freedom, special
+operations groups joined up with British forces
+to search for and destroy these SCUD missile
+sites before they could be used against
+Coalition forces. Many were found and destroyed
+at the start of the war, yet many slipped
+through the grip of NATO forces only to be
+discovered after the war was officially
+declared over.

@@ -1,0 +1,54 @@
+** NATO OBJECTIVES (Attack) **
+
+	Secure:
+	1. Money case
+	2. Blue prints
+	3. Explosive device(s)
+
+** TANGO OBJECTIVES (Defend) **
+
+ 
+	Protect the items mentioned above
+        
+
+// MISSION
+
+Time:           0830 
+Location:       Near Smolensk, Russia
+
+// SITUATION
+
+Intelligence indicates that militant supporters
+of the former USSR are gathered in NC-60, an
+abandoned Soviet bunker complex in the mountains
+of Smolensk.
+
+This intelligence was obtained through
+the gathering of lists of potential buyers in
+NC-78, a decommissioned Soviet outpost in the mountains
+of Nefteugansk.
+
+The militants are organizing trade and smuggling
+operations in the region to unknown buyers interested
+in the gathering of illegal weapons and explosives.
+They are using the administrative/shipping and storage
+part of NC-60 for their operations. Their full intentions
+for these explosives are unknown.
+
+// BACKGROUND
+
+By obtaining the lists in NC-78 and after months of
+preparation and oberservation, intelligence was finally able
+to track this militant cell down.
+It is assumed Cuban customers are present.
+
+
+******
+Thanks
+******
+
+Special thanks to Myllys, Rick_D, gloopy,
+the HI team, the creator of hi_russia,
+the testers, all the ppl for their feedback
+
+and all I forgot
